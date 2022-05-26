@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = Tic_Tac_Toe_vb
-build_property.ProjectDir = C:\Users\bmder\Desktop\Activity 1\Tic-Tac-Toe-vb\
+build_property.ProjectDir = C:\Users\bmder\source\repos\TicTacToe-vb\Tic-Tac-Toe-vb\
